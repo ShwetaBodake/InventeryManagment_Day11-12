@@ -1,0 +1,64 @@
+﻿{
+  "TypesOfRice": [
+    {
+      "name": "Basumathi",
+      "weight": 23,
+      "price": 200
+    },
+
+    {
+      "name": "Hamsa",
+      "weight": 21,
+      "price": 120
+    },
+    {
+      "name": "Rice1",
+      "weight": 23,
+      "price": 100
+    }
+  ],
+
+
+
+  "TypesOfPulses": [
+    {
+      "name": "Beans",
+      "weight": 27,
+      "price": 456
+    },
+
+    {
+      "name": "cow peas",
+      "weight": 11,
+      "price": 440
+    },
+    {
+      "name": "lentils",
+      "weight": 10,
+      "price": 562
+    }
+  ],
+
+
+
+  "TypesOfWheat": [
+    {
+      "name": "Common Wheat",
+      "weight": 54,
+      "price": 312
+    },
+
+    {
+      "name": "Durum",
+      "weight": 21,
+      "price": 234
+    },
+    {
+      "name": "spelt",
+      "weight": 23,
+      "price": 222
+    }
+  ]
+}
+    
+
